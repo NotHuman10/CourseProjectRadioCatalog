@@ -1,0 +1,6 @@
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\bin\Debug\RadioCatalog.LIB.dll
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\bin\Debug\RadioCatalog.LIB.pdb
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\obj\Debug\RadioCatalog.LIB.csprojResolveAssemblyReference.cache
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\obj\Debug\RadioCatalog.LIB.csproj.CoreCompileInputs.cache
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\obj\Debug\RadioCatalog.LIB.dll
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog.LIB\obj\Debug\RadioCatalog.LIB.pdb

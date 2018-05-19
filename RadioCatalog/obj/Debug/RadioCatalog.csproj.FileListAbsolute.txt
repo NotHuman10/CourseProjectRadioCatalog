@@ -1,0 +1,15 @@
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.csprojResolveAssemblyReference.cache
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.Properties.Resources.resources
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.CategoryForm.resources
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.ItemForm.resources
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.csproj.GenerateResource.cache
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.csproj.CoreCompileInputs.cache
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\bin\Debug\RadioCatalog.exe.config
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\bin\Debug\RadioCatalog.exe
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\bin\Debug\RadioCatalog.pdb
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\bin\Debug\RadioCatalog.LIB.dll
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\bin\Debug\RadioCatalog.LIB.pdb
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.csproj.CopyComplete
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.exe
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.pdb
+C:\Users\dkarp\Documents\Visual Studio 2017\Projects\RadioCatalog\RadioCatalog\obj\Debug\RadioCatalog.MainForm.resources
